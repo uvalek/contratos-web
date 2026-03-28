@@ -72,7 +72,7 @@ const STEPS = [
 ];
 
 const WEBHOOK_URL =
-  "https://n8n-n8n.aslx54.easypanel.host/webhook-test/f7228ba4-c8c9-4c26-88ce-86365eb0208c";
+  "https://n8n-n8n.aslx54.easypanel.host/webhook/f7228ba4-c8c9-4c26-88ce-86365eb0208c";
 
 const STORAGE_KEY = "alek-contract-draft";
 
